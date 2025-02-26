@@ -17,7 +17,7 @@ int main()
 	StudentInfo si;
 	StudentManager sm;
 	do {
-
+		//Main menu
 		cout << "1. Add Student" << endl;
 		cout << "2. Remove Student" << endl;
 		cout << "3. Update Student" << endl;
